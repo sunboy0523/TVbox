@@ -4219,35 +4219,37 @@ http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8$LR•IPV4•20『�
 #EXTINF:-1 tvg-id="20" tvg-name="浙江国际" group-title="浙江频道",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?$LR•IPV4•20『线路20』
 #EXTINF:-1 tvg-id="1" tvg-name="浙江少儿" group-title="浙江频道",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$LR•IPV4•15『线路1』
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$LR•IPV4•16『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="浙江少儿" group-title="浙江频道",浙江少儿
-http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$LR•IPV4•15『线路2』
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$LR•IPV4•16『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="浙江少儿" group-title="浙江频道",浙江少儿
-http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8$LR•IPV4•15『线路3』
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$LR•IPV4•16『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="浙江少儿" group-title="浙江频道",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?$LR•IPV4•15『线路4』
+http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8$LR•IPV4•16『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="浙江少儿" group-title="浙江频道",浙江少儿
-https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$LR•IPV4•15『线路5』
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?$LR•IPV4•16『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="浙江少儿" group-title="浙江频道",浙江少儿
-https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$LR•IPV4•15『线路6』
+https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$LR•IPV4•16『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="浙江少儿" group-title="浙江频道",浙江少儿
-https://stream1.freetv.fun/zhe-jiang-shao-er-4.ctv$LR•IPV4•15『线路7』
+https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$LR•IPV4•16『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="浙江少儿" group-title="浙江频道",浙江少儿
-https://stream1.freetv.fun/zhe-jiang-shao-er-4.m3u8$LR•IPV4•15『线路8』
+https://stream1.freetv.fun/zhe-jiang-shao-er-4.ctv$LR•IPV4•16『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="浙江少儿" group-title="浙江频道",浙江少儿
-https://stream1.freetv.fun/zhe-jiang-shao-er-6.ctv$LR•IPV4•15『线路9』
+https://stream1.freetv.fun/zhe-jiang-shao-er-4.m3u8$LR•IPV4•16『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="浙江少儿" group-title="浙江频道",浙江少儿
-https://stream1.freetv.fun/zhe-jiang-shao-er-9.ctv$LR•IPV4•15『线路10』
+https://stream1.freetv.fun/zhe-jiang-shao-er-6.ctv$LR•IPV4•16『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="浙江少儿" group-title="浙江频道",浙江少儿
-https://stream1.freetv.fun/zhe-jiang-shao-er-1.ctv$LR•IPV4•15『线路11』
+https://stream1.freetv.fun/zhe-jiang-shao-er-9.ctv$LR•IPV4•16『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="浙江少儿" group-title="浙江频道",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$LR•IPV4•15『线路12』
+https://stream1.freetv.fun/zhe-jiang-shao-er-1.ctv$LR•IPV4•16『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="浙江少儿" group-title="浙江频道",浙江少儿
-http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$LR•IPV4•15『线路13』
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$LR•IPV4•16『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="浙江少儿" group-title="浙江频道",浙江少儿
-http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8$LR•IPV4•15『线路14』
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$LR•IPV4•16『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="浙江少儿" group-title="浙江频道",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?$LR•IPV4•15『线路15』
+http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8$LR•IPV4•16『线路15』
+#EXTINF:-1 tvg-id="16" tvg-name="浙江少儿" group-title="浙江频道",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?$LR•IPV4•16『线路16』
 #EXTINF:-1 tvg-id="1" tvg-name="浙江教科" group-title="浙江频道",浙江教科
 http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$LR•IPV4•4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="浙江教科" group-title="浙江频道",浙江教科
